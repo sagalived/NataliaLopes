@@ -1,0 +1,6 @@
+{
+  "name": "Natália Lopes - Psicanálise & Psicologia",
+  "description": "Site profissional da Dra. Natália Lopes (Psicanalista e Psicóloga Clínica CRP 11/25965) com agendamento online, prontuário eletrônico seguro para pacientes e blog de saúde mental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
